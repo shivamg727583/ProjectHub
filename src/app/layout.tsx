@@ -16,6 +16,7 @@ export const metadata: Metadata = {
   title: "ProjectHub",
   description: "ProjectHub is a platform for managing and collaborating on projects. It provides tools for task management, team collaboration, and project tracking.",
   
+
 };
 
 export default function RootLayout({
